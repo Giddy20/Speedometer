@@ -7,3 +7,5 @@
 https://developer.here.com/documentation/flutter-sdk-explore/4.9.4.0/dev_guide/topics/quick-start.html
 
 - after putting the renamed folder(here_sdk) into the plugins folder, there will be some errors at first, open the pubspec.yaml folder in the "here.sdk" folder and run "pub get" to resolve it
+
+then update your credentials in the AndroidManifest.xml file
