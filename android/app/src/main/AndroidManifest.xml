@@ -9,8 +9,8 @@
         android:label="Speedometer"
         android:icon="@mipmap/ic_launcher">
 
-       <meta-data android:name="com.here.sdk.access_key_id" android:value="6vOSWGHFVDUJbE4fCSEgrQ" />
-       <meta-data android:name="com.here.sdk.access_key_secret" android:value="-RhTGzjji0LJlvHzio7FfEufMFH38CJp6KS3D6d5sEg8x74QbOWVfkImDiOhANlx_vr2oogPxD0xiVp8QWiPqQ" />
+       <meta-data android:name="com.here.sdk.access_key_id" android:value="YOUR-ACCESS-KEY ID" />
+       <meta-data android:name="com.here.sdk.access_key_secret" android:value="YOUR-ACCESS-SCCRET KEY" />
 
         <activity
             android:name=".MainActivity"
