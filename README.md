@@ -1,16 +1,9 @@
-# first_app
+# Speedometer
 
-A new Flutter project.
+- create a plugins folder after pulling this repo.
 
-## Getting Started
+- follow the instructions in the link below to get the flutter sdk and your credentials to make the map page work, to see wheere i stopped so that you can continue.
 
-This project is a starting point for a Flutter application.
+https://developer.here.com/documentation/flutter-sdk-explore/4.9.4.0/dev_guide/topics/quick-start.html
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- after putting the renamed folder(here_sdk) into the plugins folder, there will be some errors at first, open the pubspec.yaml folder in the "here.sdk" folder and run "pub get" to resolve it
